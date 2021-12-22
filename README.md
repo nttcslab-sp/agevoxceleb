@@ -26,6 +26,16 @@ Note that the segment-id is composed of speaker-ID, video-ID, and segment-ID def
 
 In addition, please note that how to divide the data into training and test sets is different from ones defined in the original VoxCeleb dataset.
 
+### Related work
+There is another work [1] that is closely related to us but conducted independently of our work. 
+The key difference between our work and theirs is that 
+they automatically annotated age labels in a more strict way. 
+Specifically, they use video semantic and people identity information
+taken from multiple data sources to get the accurate speaker's birth year and the recording date.
+Please refer to their [Arxiv paper](https://arxiv.org/abs/2109.13510)[1] and
+[Github repository](https://github.com/hechmik/voxceleb_enrichment_age_gender)
+for detailed information.
+
 ### Citation
 If you use this dataset, please cite:
 ```
