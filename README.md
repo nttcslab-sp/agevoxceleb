@@ -36,6 +36,10 @@ Please refer to their [Arxiv paper](https://arxiv.org/abs/2109.13510)[1] and
 [Github repository](https://github.com/hechmik/voxceleb_enrichment_age_gender)
 for detailed information.
 
+``` 
+[1] Khaled Hechmi, Trung Ngo Trong, Ville Hautamaki, Tomi Kinnunen, ``VoxCeleb Enrichment for Age and Gender Recognition,'' arXiv:2109.13510, 2021, 
+```
+
 ### Citation
 If you use this dataset, please cite:
 ```
